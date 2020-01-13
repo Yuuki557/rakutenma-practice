@@ -1,0 +1,20 @@
+{
+  "name": "rakutenma-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rakutenma": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.2",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}
